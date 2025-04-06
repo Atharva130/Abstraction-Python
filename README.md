@@ -1,4 +1,3 @@
-# HEL
 # Abstraction in Python
 
 ## Introduction
